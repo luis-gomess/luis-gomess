@@ -8,21 +8,16 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 
 <div style="display: inline_block"><br>
 
-<img align="center" height="48" src="https://skillicons.dev/icons?i=python">
-<img align="center" height="48" src="https://skillicons.dev/icons?i=java">
-<img align="center" height="48" src="https://skillicons.dev/icons?i=c">
-<img align="center" height="48" src="https://skillicons.dev/icons?i=docker">
-<img align="center" height="48" src="https://skillicons.dev/icons?i=mysql">
-<img align="center" height="48" src="https://skillicons.dev/icons?i=postman">
-<img align="center" height="48" src="https://skillicons.dev/icons?i=git">
+<img height="48" src="https://skillicons.dev/icons?i=python&theme=dark">
+<img height="48" src="https://skillicons.dev/icons?i=java&theme=dark">
+<img height="48" src="https://skillicons.dev/icons?i=c&theme=dark">
+<img height="48" src="https://skillicons.dev/icons?i=docker&theme=dark">
+<img height="48" src="https://skillicons.dev/icons?i=mysql&theme=dark">
+<img height="48" src="https://skillicons.dev/icons?i=postman&theme=dark">
+<img height="48" src="https://skillicons.dev/icons?i=git&theme=dark">
+<img height="48" src="https://skillicons.dev/icons?i=cypress&theme=dark">
 
-<span style="display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;background:#30363d;border-radius:12px;margin-left:4px;">
-<img src="https://cdn.simpleicons.org/cypress/white" width="26">
-</span>
-
-<span style="display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;background:#30363d;border-radius:12px;margin-left:4px;">
-<img src="https://cdn.simpleicons.org/robotframework/white" width="26">
-</span>
+<img height="48" src="https://img.shields.io/badge/-30363D?style=flat&logo=robotframework&logoColor=white">
 
 </div>
   
