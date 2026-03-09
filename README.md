@@ -7,16 +7,19 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 - 🔎 Atuação com Testes Funcionais e Testes de API
 
 <div style="display: inline_block"><br>
-
-<img align="center" height="45" src="https://skillicons.dev/icons?i=python">
-<img align="center" height="45" src="https://skillicons.dev/icons?i=java">
-<img align="center" height="45" src="https://skillicons.dev/icons?i=c">
-<img align="center" height="45" src="https://skillicons.dev/icons?i=docker">
-<img align="center" height="45" src="https://skillicons.dev/icons?i=mysql">
-<img align="center" height="45" src="https://skillicons.dev/icons?i=postman">
-<img align="center" height="45" src="https://skillicons.dev/icons?i=git">
-<img align="center" height="45" src="https://api.iconify.design/simple-icons/cypress.svg?color=white&background=%232d333b&radius=10">
-<img align="center" height="45" src="https://api.iconify.design/simple-icons/robotframework.svg?color=white&background=%232d333b&radius=10">
+<img align="center" height="48" src="https://skillicons.dev/icons?i=python">
+<img align="center" height="48" src="https://skillicons.dev/icons?i=java">
+<img align="center" height="48" src="https://skillicons.dev/icons?i=c">
+<img align="center" height="48" src="https://skillicons.dev/icons?i=docker">
+<img align="center" height="48" src="https://skillicons.dev/icons?i=mysql">
+<img align="center" height="48" src="https://skillicons.dev/icons?i=postman">
+<img align="center" height="48" src="https://skillicons.dev/icons?i=git">
+<div style="display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;background:#2d333b;border-radius:12px;margin-left:4px;">
+<img height="26" src="https://cdn.simpleicons.org/cypress/white">
+</div>
+<div style="display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;background:#2d333b;border-radius:12px;margin-left:4px;">
+<img height="26" src="https://cdn.simpleicons.org/robotframework/white">
+</div>
 </div>
   
   ##
