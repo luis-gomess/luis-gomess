@@ -10,16 +10,23 @@ Sou **Analista de Testes (QA)** focado em garantir **qualidade, confiabilidade e
   <img align="center" alt="Python" height="45" src="https://skillicons.dev/icons?i=python">
   <img align="center" alt="Java" height="45" src="https://skillicons.dev/icons?i=java">
   <img align="center" alt="C" height="45" src="https://skillicons.dev/icons?i=c">
-  <span style="background:white; padding:6px; border-radius:8px;">
-    <img align="center" alt="Cypress" height="45" src="https://skillicons.dev/icons?i=cypress">
-  </span>
   <img align="center" alt="Docker" height="45" src="https://skillicons.dev/icons?i=docker">
   <img align="center" alt="MySQL" height="45" src="https://skillicons.dev/icons?i=mysql">
   <img align="center" alt="Postman" height="45" src="https://skillicons.dev/icons?i=postman">
   <img align="center" alt="Git" height="45" src="https://skillicons.dev/icons?i=git">
-  <span style="background:white; padding:6px; border-radius:8px;">
-    <img align="center" alt="Robot Framework" height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
-  </span>
+  <table>
+  <tr>
+
+  <td bgcolor="white" align="center">
+    <img height="45" src="https://skillicons.dev/icons?i=cypress">
+  </td>
+
+  <td bgcolor="white" align="center">
+    <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
+  </td>
+
+  </tr>
+  </table>
 </div>
   
   ##
