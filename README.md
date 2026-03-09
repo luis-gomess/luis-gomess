@@ -19,7 +19,8 @@ Sou **Analista de Testes (QA)** focado em garantir **qualidade, confiabilidade e
   <img align="center" alt="Git" height="45" src="https://skillicons.dev/icons?i=git">
   <span style="background:white; padding:6px; border-radius:8px;">
     <img align="center" alt="Robot Framework" height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
-  </span></div>
+  </span>
+</div>
   
   ##
  
