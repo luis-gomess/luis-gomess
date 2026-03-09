@@ -15,11 +15,8 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 <img align="center" height="48" src="https://skillicons.dev/icons?i=mysql">
 <img align="center" height="48" src="https://skillicons.dev/icons?i=postman">
 <img align="center" height="48" src="https://skillicons.dev/icons?i=git">
-
-<img align="center" height="50" src="https://img.shields.io/badge/-2d333b?style=flat-square&logo=cypress&logoColor=white">
-
-<img align="center" height="50" src="https://img.shields.io/badge/-2d333b?style=flat-square&logo=robotframework&logoColor=white">
-
+<img align="center" height="48" src="https://img.shields.io/badge/-%20-2d333b?style=for-the-badge&logo=cypress&logoColor=white">
+<img align="center" height="48" src="https://img.shields.io/badge/-%20-2d333b?style=for-the-badge&logo=robotframework&logoColor=white">
 </div>
   
   ##
