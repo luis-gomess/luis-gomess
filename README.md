@@ -9,22 +9,20 @@ Sou **Analista de Testes (QA)** focado em garantir **qualidade, confiabilidade e
 <div style="display: inline_block"><br>
 
 <img align="center" height="45" src="https://skillicons.dev/icons?i=python">
-
 <img align="center" height="45" src="https://skillicons.dev/icons?i=java">
-
 <img align="center" height="45" src="https://skillicons.dev/icons?i=c">
-
 <img align="center" height="45" src="https://skillicons.dev/icons?i=docker">
-
 <img align="center" height="45" src="https://skillicons.dev/icons?i=mysql">
-
 <img align="center" height="45" src="https://skillicons.dev/icons?i=postman">
-
 <img align="center" height="45" src="https://skillicons.dev/icons?i=git">
 
-<img align="center" height="45" src="https://cdn.simpleicons.org/cypress/white">
+<span style="background:#1f2430;padding:8px;border-radius:10px;display:inline-block;margin-left:4px;">
+<img height="28" src="https://cdn.simpleicons.org/cypress/white">
+</span>
 
-<img align="center" height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
+<span style="background:#1f2430;padding:8px;border-radius:10px;display:inline-block;margin-left:4px;">
+<img height="28" src="https://cdn.simpleicons.org/robotframework/white">
+</span>
 
 </div>
   
