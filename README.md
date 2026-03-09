@@ -1,10 +1,10 @@
 ## 👋 Olá! Me chamo Luis Felipe
 
-Sou **Analista de Testes (QA)** focado em garantir **qualidade, confiabilidade e estabilidade em produtos digitais**. Tenho experiência na execução de testes funcionais, validação de APIs e automação de testes, contribuindo para entregas mais seguras em ambientes ágeis.
+Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estabilidade em produtos digitais. Tenho experiência na execução de testes funcionais, validação de APIs e automação de testes, contribuindo para entregas mais seguras em ambientes ágeis.
 
-- 🔭 Atualmente trabalho como **Analista de Testes**
-- 🤖 Experiência com **Automação de Testes**
-- 🔎 Atuação com **Testes Funcionais e Testes de API**
+- 🔭 Atualmente trabalho como Analista de Testes
+- 🤖 Experiência com Automação de Testes
+- 🔎 Atuação com Testes Funcionais e Testes de API
 
 <div style="display: inline_block"><br>
 
@@ -15,33 +15,8 @@ Sou **Analista de Testes (QA)** focado em garantir **qualidade, confiabilidade e
 <img align="center" height="45" src="https://skillicons.dev/icons?i=mysql">
 <img align="center" height="45" src="https://skillicons.dev/icons?i=postman">
 <img align="center" height="45" src="https://skillicons.dev/icons?i=git">
-
-<span style="
-display:inline-flex;
-align-items:center;
-justify-content:center;
-width:48px;
-height:48px;
-background:#2d333b;
-border-radius:12px;
-margin-left:4px;
-">
-<img height="28" src="https://cdn.simpleicons.org/cypress/white">
-</span>
-
-<span style="
-display:inline-flex;
-align-items:center;
-justify-content:center;
-width:48px;
-height:48px;
-background:#2d333b;
-border-radius:12px;
-margin-left:4px;
-">
-<img height="28" src="https://cdn.simpleicons.org/robotframework/white">
-</span>
-
+<img align="center" height="45" src="https://api.iconify.design/simple-icons/cypress.svg?color=white&background=%232d333b&radius=10">
+<img align="center" height="45" src="https://api.iconify.design/simple-icons/robotframework.svg?color=white&background=%232d333b&radius=10">
 </div>
   
   ##
