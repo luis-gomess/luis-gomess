@@ -7,24 +7,25 @@ Sou **Analista de Testes (QA)** focado em garantir **qualidade, confiabilidade e
 - 🔎 Atuação com **Testes Funcionais e Testes de API**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Cypress" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">
-  <img align="center" alt="Robot Framework" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robotframework/robotframework-original.svg">
-  <img align="center" alt="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img align="center" alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Python" height="45" src="https://skillicons.dev/icons?i=python">
+  <img align="center" alt="Java" height="45" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="C" height="45" src="https://skillicons.dev/icons?i=c">
+  <img align="center" alt="Cypress" height="45" src="https://skillicons.dev/icons?i=cypress">
+  <img align="center" alt="Docker" height="45" src="https://skillicons.dev/icons?i=docker">
+  <img align="center" alt="MySQL" height="45" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Postman" height="45" src="https://skillicons.dev/icons?i=postman">
+  <img align="center" alt="Git" height="45" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="Robot Framework" height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
 </div>
   
   ##
  
-<div>
+<div> 
   <a href="https://www.linkedin.com/in/luis-gomess/" target="_blank">
-    <img align="center" alt="LinkedIn" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
+  
   <a href="mailto:luys.felipe007@gmail.com">
-    <img align="center" alt="Email" height="35" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
