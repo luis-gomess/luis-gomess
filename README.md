@@ -16,11 +16,29 @@ Sou **Analista de Testes (QA)** focado em garantir **qualidade, confiabilidade e
 <img align="center" height="45" src="https://skillicons.dev/icons?i=postman">
 <img align="center" height="45" src="https://skillicons.dev/icons?i=git">
 
-<span style="background:#1f2430;padding:8px;border-radius:10px;display:inline-block;margin-left:4px;">
+<span style="
+display:inline-flex;
+align-items:center;
+justify-content:center;
+width:48px;
+height:48px;
+background:#2d333b;
+border-radius:12px;
+margin-left:4px;
+">
 <img height="28" src="https://cdn.simpleicons.org/cypress/white">
 </span>
 
-<span style="background:#1f2430;padding:8px;border-radius:10px;display:inline-block;margin-left:4px;">
+<span style="
+display:inline-flex;
+align-items:center;
+justify-content:center;
+width:48px;
+height:48px;
+background:#2d333b;
+border-radius:12px;
+margin-left:4px;
+">
 <img height="28" src="https://cdn.simpleicons.org/robotframework/white">
 </span>
 
