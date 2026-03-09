@@ -7,15 +7,15 @@ Sou **Analista de Testes (QA)** focado em garantir **qualidade, confiabilidade e
 - 🔎 Atuação com **Testes Funcionais e Testes de API**
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Python" height="50" src="https://skillicons.dev/icons?i=python">
-<img align="center" alt="Java" height="50" src="https://skillicons.dev/icons?i=java">
-<img align="center" alt="C" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img align="center" alt="Cypress" height="50" src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg">
-<img align="center" alt="Docker" height="50" src="https://skillicons.dev/icons?i=docker">
-<img align="center" alt="MySQL" height="50" src="https://skillicons.dev/icons?i=mysql">
-<img align="center" alt="Postman" height="50" src="https://skillicons.dev/icons?i=postman">
-<img align="center" alt="Git" height="50" src="https://skillicons.dev/icons?i=git">
-<img align="center" alt="Robot Framework" height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
+  <img align="center" alt="Python" height="45" src="https://skillicons.dev/icons?i=python">
+  <img align="center" alt="Java" height="45" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="C" height="45" src="https://skillicons.dev/icons?i=c">
+  <img align="center" alt="Cypress" height="45" src="https://skillicons.dev/icons?i=cypress">
+  <img align="center" alt="Docker" height="45" src="https://skillicons.dev/icons?i=docker">
+  <img align="center" alt="MySQL" height="45" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Postman" height="45" src="https://skillicons.dev/icons?i=postman">
+  <img align="center" alt="Git" height="45" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="Robot Framework" height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
 </div>
   
   ##
