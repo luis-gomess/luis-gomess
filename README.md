@@ -7,19 +7,7 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 - 🔎 Atuação com Testes Funcionais e Testes de API
 
 <div style="display: inline_block"><br>
-
-<img height="48" src="https://skillicons.dev/icons?i=python&theme=dark">
-<img height="48" src="https://skillicons.dev/icons?i=java&theme=dark">
-<img height="48" src="https://skillicons.dev/icons?i=c&theme=dark">
-<img height="48" src="https://skillicons.dev/icons?i=docker&theme=dark">
-<img height="48" src="https://skillicons.dev/icons?i=mysql&theme=dark">
-<img height="48" src="https://skillicons.dev/icons?i=postman&theme=dark">
-<img height="48" src="https://skillicons.dev/icons?i=git&theme=dark">
-<img height="48" src="https://skillicons.dev/icons?i=cypress&theme=dark">
-
-<span style="display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;background:#2d333b;border-radius:12px;">
-<img src="https://cdn.simpleicons.org/robotframework/white" width="30">
-</span>
+<img src="https://skillicons.dev/icons?i=python,java,c,docker,mysql,postman,git,cypress&theme=dark">
 </div>
   
   ##
