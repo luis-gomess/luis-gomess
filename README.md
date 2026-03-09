@@ -17,8 +17,9 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 <img height="48" src="https://skillicons.dev/icons?i=git&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=cypress&theme=dark">
 
-<img height="96" src="https://img.shields.io/badge/-30363D?style=flat&logo=robotframework&logoColor=white">
-
+<span style="display:inline-flex;align-items:center;justify-content:center;width:48px;height:48px;background:#2d333b;border-radius:12px;">
+<img src="https://cdn.simpleicons.org/robotframework/white" width="30">
+</span>
 </div>
   
   ##
