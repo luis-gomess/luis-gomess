@@ -15,8 +15,8 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 <img height="48" src="https://skillicons.dev/icons?i=postman&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=aws&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=cypress&theme=light">
-<img height="48" src="https://skillicons.dev/icons?i=cypress&theme=html">
-<img height="48" src="https://skillicons.dev/icons?i=cypress&theme=css">
+<img height="48" src="https://skillicons.dev/icons?i=html&theme=dark">
+<img height="48" src="https://skillicons.dev/icons?i=css&theme=dark">
 </div>
   
   ##
