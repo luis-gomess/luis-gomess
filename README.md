@@ -21,7 +21,7 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 
 ## My Contributions
 
-<div>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmanoelRodrigues-darmlabs/EmanoelRodrigues-darmlabs/main/dist/pacman-contribution-graph.svg">
@@ -31,7 +31,7 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
   
   ##
  
-<div>
+<div align="right">
 <a href="https://www.linkedin.com/in/luis-gomess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:luys.felipe007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
