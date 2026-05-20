@@ -1,4 +1,4 @@
-## 👋 Olá! Me chamo Luis Felipe
+## 👋 Olá! Me chamo Luis Gomes
 
 Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estabilidade em produtos digitais. Tenho experiência na execução de testes funcionais, validação de APIs e automação de testes, contribuindo para entregas mais seguras em ambientes ágeis.
 
