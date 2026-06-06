@@ -1,0 +1,20 @@
+name: Generate Pacman Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: luis-gomess
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=orange
