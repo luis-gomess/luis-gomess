@@ -22,7 +22,7 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 <div style="display: inline_block">
   <img src="https://komarev.com/ghpvc/?username=luis-gomess&color=0077B5&style=flat-square"/>
   <img src="https://img.shields.io/badge/Manual%20Testing-6E40C9?style=flat-square&logo=testinglibrary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Test%20Automation-85EA2D?style=flat-square&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Test%20Automation-2EA84C?style=flat-square&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </div>
 
@@ -39,6 +39,10 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
   ##
  
 <div align="right">
-  <a href="https://www.linkedin.com/in/luis-gomess/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="mailto:luys.felipe007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/luis-gomess/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(1)"/>
+  </a>
+  <a href="mailto:luys.felipe007@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/gmail.svg" alt="Gmail" height="30" width="40" style="filter: invert(1)"/>
+  </a>
 </div>
