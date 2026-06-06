@@ -1,10 +1,10 @@
 ## 👋 Olá! Me chamo Luis Gomes
 
-Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estabilidade em produtos digitais. Tenho experiência na execução de testes funcionais, validação de APIs e automação de testes, contribuindo para entregas mais seguras em ambientes ágeis.
+Sou Analista de Testes (QA) e atuo na garantia da qualidade de software em ambientes ágeis, contribuindo para entregas mais seguras e confiáveis ao longo de todo o ciclo de desenvolvimento.
 
 - 🔭 Atualmente trabalho como Analista de Testes
-- 🤖 Experiência com Automação de Testes
-- 🔎 Atuação com Testes Funcionais e Testes de API
+- 🤖 Experiência com Automação de Testes utilizando Robot Framework e Python, bem como Cypress e JavaScript
+- 🔎 Atuação com Testes Funcionais, Regressivos, Exploratórios, de Performance, de Atualização e de API
 
 <div style="display: inline_block"><br>
 <img height="48" src="https://skillicons.dev/icons?i=cypress&theme=light">
