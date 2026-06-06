@@ -19,6 +19,8 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 <img height="48" src="https://skillicons.dev/icons?i=css&theme=dark">
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=luis-gomess&color=0077B5&style=flat-square"/>
+
 ## My Contributions
 
 <div align="center">
