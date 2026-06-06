@@ -10,7 +10,6 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 <img height="48" src="https://skillicons.dev/icons?i=python&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=c&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=js&theme=dark">
-<img height="48" src="https://skillicons.dev/icons?i=playwright&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=cypress&theme=light">
 <img height="48" src="https://skillicons.dev/icons?i=mysql&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=docker&theme=dark">
@@ -18,9 +17,6 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 <img height="48" src="https://skillicons.dev/icons?i=aws&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=html&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=css&theme=dark">
-</div>
-<div style="display: inline_block"><br>
-<img src="https://komarev.com/ghpvc/?username=luis-gomess&color=0077B5&style=flat-square"/>
 </div>
 
 ## My Contributions
@@ -38,10 +34,4 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 <div align="right">
 <a href="https://www.linkedin.com/in/luis-gomess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:luys.felipe007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-##
-
-<div align="right">
-  <a href="https://www.linkedin.com/in/luis-gomess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="mailto:luys.felipe007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
