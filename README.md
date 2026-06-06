@@ -21,8 +21,7 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 
 <div style="display: inline_block">
   <img src="https://komarev.com/ghpvc/?username=luis-gomess&color=0077B5&style=flat-square"/>
-  <img src="https://img.shields.io/badge/QA%20Engineer-0077B5?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Manual%20Testing-6E40C9?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Manual%20Testing-6E40C9?style=flat-square&logo=testinglibrary&logoColor=white"/>
   <img src="https://img.shields.io/badge/Test%20Automation-FF6C37?style=flat-square&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/API%20Testing-85EA2D?style=flat-square&logo=postman&logoColor=white"/>
 </div>
