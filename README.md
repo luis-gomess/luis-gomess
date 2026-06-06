@@ -7,9 +7,6 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 - 🔎 Atuação com Testes Funcionais e Testes de API
 
 <div style="display: inline_block"><br>
-<img height="48" src="https://skillicons.dev/icons?i=python&theme=dark">
-<img height="48" src="https://skillicons.dev/icons?i=c&theme=dark">
-<img height="48" src="https://skillicons.dev/icons?i=js&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=cypress&theme=light">
 <img height="48" src="https://skillicons.dev/icons?i=mysql&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=docker&theme=dark">
@@ -17,9 +14,15 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
 <img height="48" src="https://skillicons.dev/icons?i=aws&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=html&theme=dark">
 <img height="48" src="https://skillicons.dev/icons?i=css&theme=dark">
+<img height="48" src="https://skillicons.dev/icons?i=python&theme=dark">
+<img height="48" src="https://skillicons.dev/icons?i=c&theme=dark">
+<img height="48" src="https://skillicons.dev/icons?i=js&theme=dark">
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=luis-gomess&color=0077B5&style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-00B37E?style=flat-square&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Brasil-009C3B?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/QA%20Analyst-0077B5?style=flat-square&logo=testinglibrary&logoColor=white"/>
 
 ## My Contributions
 
