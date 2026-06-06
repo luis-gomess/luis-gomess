@@ -40,9 +40,9 @@ Sou Analista de Testes (QA) focado em garantir qualidade, confiabilidade e estab
  
 <div align="right">
   <a href="https://www.linkedin.com/in/luis-gomess/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: invert(1)"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:luys.felipe007@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/gmail.svg" alt="Gmail" height="30" width="40" style="filter: invert(1)"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
