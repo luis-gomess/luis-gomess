@@ -2,19 +2,22 @@ name: Generate Pacman Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Generate SVG
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate SVGs
+        uses: yassinebridi/pacman-contribution-graph@main
         with:
           github_user_name: luis-gomess
-          outputs: |
-            dist/pacman-contribution-graph.svg?palette=github
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=orange
+          output_path: dist/
+          commit: true
