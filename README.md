@@ -3,7 +3,7 @@
 Sou Analista de Testes (QA) e atuo na garantia da qualidade de software em ambientes ágeis, contribuindo para entregas mais seguras e confiáveis ao longo de todo o ciclo de desenvolvimento.
 
 - 🔭 Atualmente trabalho como Analista de Testes
-- 🤖 Experiência com Automação de Testes utilizando Robot Framework e Python, bem como Cypress e JavaScript
+- 🤖 Experiência com automação de testes utilizando Robot Framework com Python e Cypress com JavaScript
 - 🔎 Atuação com Testes Funcionais, Regressivos, Exploratórios, de Performance, de Atualização e de API
 
 <div style="display: inline_block"><br>
